@@ -1,6 +1,6 @@
 ## Sobre mim ✍️
 - Desenvolvedora Frontend 🚀 
-- Formando em Ciências da computação 🎓
+- Formanda em Ciências da computação 🎓
 - Trabalho atualmente com React
 - Estudando react-native
 
